@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btn_call"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="전화" />
+
+    <Button
+        android:id="@+id/btn_go_naver"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="네이버 접속" />
+
+    <Button
+        android:id="@+id/btn_search"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="호랑이 검색" />
+
+    <Button
+        android:id="@+id/btn_map"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="지도" />
+
+    <Button
+        android:id="@+id/btn_addr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="주소록" />
+</LinearLayout>

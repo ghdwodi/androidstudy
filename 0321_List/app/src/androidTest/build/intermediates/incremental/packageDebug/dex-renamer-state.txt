@@ -1,0 +1,7 @@
+#Wed May 31 15:50:35 KST 2017
+base.0=C\:\\MyStudy\\androidstudy\\0321_List\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8e8133b16863335c5281f1016cf82a57d505b324
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\MyStudy\\androidstudy\\0321_List\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5e9de402048abff76033389f20b3fdaf1093c8bb\\classes.dex
+base.1=C\:\\MyStudy\\androidstudy\\0321_List\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5e9de402048abff76033389f20b3fdaf1093c8bb
+file.0=C\:\\MyStudy\\androidstudy\\0321_List\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_8e8133b16863335c5281f1016cf82a57d505b324\\classes.dex

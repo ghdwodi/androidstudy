@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:textAlignment="center"
+        android:textColor="#001eff"
+        android:padding="20dp"
+        android:text="일정관리" />
+
+    <Button
+        android:id="@+id/btn_insertgo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="일정추가" />
+
+    <Button
+        android:id="@+id/btn_selectonego"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="일정보기" />
+
+    <Button
+        android:id="@+id/btn_selectallgo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="전체일정" />
+
+    <Button
+        android:id="@+id/btn_exit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="종료" />
+
+</LinearLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:text="한빛교육센터 이홍재" />
+
+    <Button
+        android:id="@+id/btn_calc_go"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="계산기" />
+
+    <Button
+        android:id="@+id/btn_gallary_go"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="갤러리" />
+
+    <Button
+        android:id="@+id/btn_music_go"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="음악듣기" />
+
+    <Button
+        android:id="@+id/btn_schedule_go"
+        android:layout_marginTop="50dp"
+        android:layout_gravity="center"
+        android:layout_width="230dp"
+        android:layout_height="wrap_content"
+        android:text="일정관리" />
+</LinearLayout>
